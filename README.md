@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Nihit Gupta! 👋
 
-<!--
-**Nih1tGupta/Nih1tGupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Passionate Information Technology student exploring the vast world of software development and AI.
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=Nih1tGupta&color=brightgreen)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 **B.Tech IT (2022-2026)** at NIT Raipur.
+- 💡 Curious and eager to adapt to new technologies.
+- 💻 Skilled in Python, C++, and modern web technologies like the MERN stack.
+- 🌱 Currently exploring Web Development.
+- 📫 Reach me at [nihit9500@gmail.com](mailto:nihit9500@gmail.com)
+
+## 🔧 Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihit-gupta-624466288/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Nih1tGupta)
+
+## 👨‍💻 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/KIRA9500/)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-05AB3B?style=flat&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/nihitte8b/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)
+
+
+
+---
+
+🎨 **Thank you for visiting my GitHub profile!** I’m always open to collaborating on exciting projects and learning new things!
+
+---
