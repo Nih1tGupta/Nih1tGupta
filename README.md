@@ -1,14 +1,12 @@
 # Hi, I'm Nihit Gupta! 👋
 
-### Passionate Information Technology student exploring the vast world of software development and AI.
+### Exploring the vast world of software development and AI.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nih1tGupta&color=brightgreen)
 
 ## 🚀 About Me
 - 🎓 **B.Tech IT (2022-2026)** at NIT Raipur.
 - 💡 Curious and eager to adapt to new technologies.
-- 💻 Skilled in Python, C++, and modern web technologies like the MERN stack.
-- 🌱 Currently exploring Web Development.
 - 📫 Reach me at [nihit9500@gmail.com](mailto:nihit9500@gmail.com)
 
 ## 🔧 Technologies & Tools
@@ -19,7 +17,6 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 
 ## 🌐 Connect with Me
 
