@@ -1,12 +1,11 @@
 # Hi, I'm Nihit Gupta! 👋
 
-### Exploring the vast world of software development and AI.
+### Software Engineer @ [Potpie AI](https://potpie.ai) | Building at the intersection of AI, Systems, and Software Engineering.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nih1tGupta&color=brightgreen)
 
 ## 🚀 About Me
 - 🎓 **B.Tech IT (2022-2026)** at NIT Raipur.
-- 💡 Curious and eager to adapt to new technologies.
+- ⚡ Passionate about low-latency systems, backend architecture, scalable APIs, and applied AI.
 - 📫 Reach me at [nihit9500@gmail.com](mailto:nihit9500@gmail.com)
 
 ## 🔧 Technologies & Tools
